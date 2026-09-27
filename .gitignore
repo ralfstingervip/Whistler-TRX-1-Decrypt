@@ -1,0 +1,10 @@
+/target
+# Vendor updater, recovered images, keys, and the IDA database are not redistributed.
+*.exe
+/firmware/*.bin
+/firmware/*.key
+/firmware/*.salt
+/firmware/*.static_key
+/ida/db/
+/ida/idat.log
+Run Claude.cmd
